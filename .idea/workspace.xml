@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32b6c67-d69c-4811-b263-207007b65ed4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/macroUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto macro.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/macro.py" beforeDir="false" afterPath="$PROJECT_DIR$/macro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macroUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/macroUI.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +24,7 @@
   <component name="ProjectId" id="1fNr4bMjpgaUkmGE6gwXDKURrEP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clockalarm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
